@@ -1,1 +1,1 @@
-H2 My new repository
+My new repository
